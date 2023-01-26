@@ -1,0 +1,29 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+.signup {
+  display: grid;
+  font-size: 20px;
+  max-width: 1440px;
+  margin: auto;
+  grid-template-columns: 1fr 1fr;
+}
+
+.signup_left_section {
+  background: #408cc6;
+  padding-top: 88px;
+  padding-bottom: 88 px;
+  padding-left: 6.9%;
+}
+
+.signup_left_section p {
+  color: aliceblue;
+  max-width: 521px;
+  margin-top: 36px;
+  margin-bottom: 100px;
+}
+
+.signup_right_section
